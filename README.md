@@ -9,9 +9,9 @@ fix/nombre_rama (id Task-descripcion taask)
 
 ## Instalación
 
+```bash
 Instrucciones para que la instalacion sea en docker:
 Se dejo un archivo docker compose para orquestar frontend y backend
-```bash
 Ejecutar:
 docker-compose up --build (esto requiere que tengamos docker desktop instalado y ejecutando)
 
