@@ -17,7 +17,6 @@ docker-compose up --build (esto requiere que tengamos docker desktop instalado y
 
 Instrucciones para instalar y configurar tu proyecto:
 
-```bash
 git clone https://github.com/devargmaster/pjam.git
 cd pjam
 npm install
